@@ -1,0 +1,2 @@
+# character_input
+EMNISTデータセットと同じフォーマットで手書き画像を保存するProcessingプログラムです。
